@@ -5,6 +5,7 @@ body{
 h2{
     color: rgb(255, 0, 140);
     text-align: center;
+   
 }
 a{
     color:rgb(255, 0, 140);
@@ -15,4 +16,14 @@ nav{
 }
 h1{
     text-align: center;
+    margin: 50px;
+    padding: 10px;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
